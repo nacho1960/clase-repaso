@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hola soy eva y t odio
 
+=======
+hola soy eva
+soy una perrita que ladra mucho 
+>>>>>>> 9f93a15a89b96848deeecca2309a00380b92a5b5
